@@ -1,4 +1,4 @@
-# La_Torre_Interactive_Fiction
+# La Torre - Interactive Fiction
 Aventura conversacional hecha en COBOL
 
 Muestra de cómo realizar una aventura conversacional en el lenguaje COBOL. El fuete está pensado para que sea compilado con GnuCOBOL activando el formato libre.
